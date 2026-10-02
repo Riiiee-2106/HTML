@@ -1,0 +1,25 @@
+🧱 Block Elements
+New Line: Start on a new line.
+
+Full Width: Take up all horizontal space.
+
+Styling: Can have margins and padding.
+
+Size: Width and height can be set.
+
+Examples: <div>, <p>, <h1>, <ul>, <li>
+
+
+
+    
+
+🧩 Inline Elements
+Flow: Stay in line with text.
+
+Width: Just as wide as the content.
+
+No Break: No new line between elements.
+
+Limited Styling: Can’t style easily.
+
+Examples: <span>, <a>, <strong>, <em>, <img>
